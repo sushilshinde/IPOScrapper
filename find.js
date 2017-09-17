@@ -11,8 +11,5 @@ google('Cochin Shipyard Ltd IPO pdf', function (err, res){
   }
 })
 
-<<<<<<< HEAD
 //this is fix from featThree
-=======
 //this is fix from hotfix
->>>>>>> hotfix
