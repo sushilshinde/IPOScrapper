@@ -18,7 +18,7 @@
     "jsdom": "^11.1.0",
     "jsonfile": "^3.0.1",
     "moment": "^2.18.1",
-    "nightmare": "^2.10.0",
+    "nightmare": "^3.0.2",
     "numeral": "^2.0.6",
     "string": "^3.3.3",
     "x-ray": "^2.3.2"
