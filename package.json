@@ -14,7 +14,7 @@
     "google-scraper": "^1.1.2",
     "google-search-scraper": "0.0.3",
     "jQuery": "^1.7.4",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "jsdom": "^11.1.0",
     "jsonfile": "^3.0.1",
     "moment": "^2.18.1",
