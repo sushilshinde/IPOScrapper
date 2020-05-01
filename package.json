@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "",
   "license": "ISC",
@@ -14,13 +16,15 @@
     "google-scraper": "^1.1.2",
     "google-search-scraper": "0.0.3",
     "jQuery": "^1.7.4",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "jsdom": "^11.1.0",
     "jsonfile": "^3.0.1",
     "moment": "^2.18.1",
     "nightmare": "^2.10.0",
     "numeral": "^2.0.6",
     "string": "^3.3.3",
-    "x-ray": "^2.3.2"
-  }
+    "x-ray": "^2.3.2",
+    "snyk": "^1.316.1"
+  },
+  "snyk": true
 }
