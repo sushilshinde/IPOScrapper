@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.2",
+    "cheerio": "^1.0.0",
     "google": "^2.1.0",
     "google-scraper": "^1.1.2",
     "google-search-scraper": "0.0.3",
